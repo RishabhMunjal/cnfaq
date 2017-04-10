@@ -18,3 +18,5 @@ Which among the following represents the objectives/requirements of Data Link La
 Frame Synchronization
 Error & Flow Control
 
+ Which sublayer of the data link layer performs data link functions that depend upon the type of medium?
+ Ans) Media access control sublayer
